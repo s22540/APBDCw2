@@ -1,0 +1,15 @@
+C:\Users\adria\source\repos\APBDCw2\APBDCw2\bin\Debug\net8.0\APBDCw2.exe
+C:\Users\adria\source\repos\APBDCw2\APBDCw2\bin\Debug\net8.0\APBDCw2.deps.json
+C:\Users\adria\source\repos\APBDCw2\APBDCw2\bin\Debug\net8.0\APBDCw2.runtimeconfig.json
+C:\Users\adria\source\repos\APBDCw2\APBDCw2\bin\Debug\net8.0\APBDCw2.dll
+C:\Users\adria\source\repos\APBDCw2\APBDCw2\bin\Debug\net8.0\APBDCw2.pdb
+C:\Users\adria\source\repos\APBDCw2\APBDCw2\obj\Debug\net8.0\APBDCw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\APBDCw2\APBDCw2\obj\Debug\net8.0\APBDCw2.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\APBDCw2\APBDCw2\obj\Debug\net8.0\APBDCw2.AssemblyInfo.cs
+C:\Users\adria\source\repos\APBDCw2\APBDCw2\obj\Debug\net8.0\APBDCw2.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\APBDCw2\APBDCw2\obj\Debug\net8.0\APBDCw2.dll
+C:\Users\adria\source\repos\APBDCw2\APBDCw2\obj\Debug\net8.0\refint\APBDCw2.dll
+C:\Users\adria\source\repos\APBDCw2\APBDCw2\obj\Debug\net8.0\APBDCw2.pdb
+C:\Users\adria\source\repos\APBDCw2\APBDCw2\obj\Debug\net8.0\APBDCw2.genruntimeconfig.cache
+C:\Users\adria\source\repos\APBDCw2\APBDCw2\obj\Debug\net8.0\ref\APBDCw2.dll
+C:\Users\adria\source\repos\APBDCw2\APBDCw2\obj\Debug\net8.0\APBDCw2.sourcelink.json
